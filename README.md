@@ -1,4 +1,3 @@
-
 Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecnologia de Processos Gerenciais pela Faculdade Engenheiro Salvador Arena. Atualmente, estou em transição para a área de análise e ciência de dados, venho aprofundando meus conhecimentos em ferramentas de inteligência de negócios como Power BI, SQL, Python e Excel. Tenho meta realizar pós-graduação graduação em ciências dados e gerenciamento de projetos. Estou aberto a conexões, colaboração e oportunidades na área de dados!
 
 <p align="left">  
@@ -33,8 +32,8 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="mysql" 
+    title="mysql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -42,11 +41,12 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="sqlite"
+    title="sqlite" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"/>
+     
 />
 <img 
     align="left" 
