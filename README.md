@@ -25,7 +25,7 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
            
@@ -34,9 +34,9 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
     align="left" 
     alt="Excel" 
     title="Excel"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
     
            
 />
