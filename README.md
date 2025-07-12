@@ -39,15 +39,15 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
             
 <img 
     align="left" 
-    alt="sqlite"
-    title="sqlite" 
+    alt="Power BI"
+    title="Power BI" 
     width="50px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Tableau" 
+    title="Tableau"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
@@ -78,14 +78,14 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=IsmaelSantosGomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSantosGomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
