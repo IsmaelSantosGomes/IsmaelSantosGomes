@@ -53,11 +53,11 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
     src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="R Project" 
+    title="R Project"
     width="30px" 
     style="padding-right: 10px;" 
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+    src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 
 
 <br/>
