@@ -51,10 +51,9 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+    src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 <img 
     align="left" 
     alt="SASS" 
