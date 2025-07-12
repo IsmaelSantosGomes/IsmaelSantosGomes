@@ -44,9 +44,9 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
     align="left" 
     alt="sqlite"
     title="sqlite" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"/>
+    src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
      
 />
 <img 
