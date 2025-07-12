@@ -32,11 +32,12 @@ Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou for
 />
 <img 
     align="left" 
-    alt="mysql" 
-    title="mysql"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    src="https://icons8.com/icon/117561/microsoft-excel-2019)" />
+    
            
 />
 <img 
