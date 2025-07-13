@@ -4,8 +4,11 @@
 
 Me chamo Ismael Santos Gomes, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecnologia de Processos Gerenciais pela Faculdade Engenheiro Salvador Arena. Atualmente, estou em transição para a área de análise e ciência de dados, venho aprofundando meus conhecimentos em ferramentas de inteligência de negócios como Power BI, SQL, Python e Excel. Tenho meta realizar pós-graduação em ciências dados e gerenciamento de projetos. Estou aberto a conexões, colaboração e oportunidades na área de dados!
 
-<p align="left">  
-    <a href="https://github.com/IsmaelSantosGomes?tab=repositories&sort=stargazers">
+<p align="left">
+     <a href="https://www.linkedin.com/in/ismaelsantosgomes/" target="_blank">  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+      <a href="mailto:isma_gomes@hotmail.com">  <img src="https://img.shields.io/badge/-Hotmail-FF0000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+</a>
+     <a href="https://github.com/IsmaelSantosGomes?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
