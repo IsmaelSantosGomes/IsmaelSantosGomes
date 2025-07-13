@@ -30,7 +30,7 @@ Me chamo Ismael, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecno
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
            
@@ -38,7 +38,7 @@ Me chamo Ismael, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecno
     align="left" 
     alt="Excel" 
     title="Excel"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
             
@@ -46,21 +46,21 @@ Me chamo Ismael, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecno
     align="left" 
     alt="Power BI"
     title="Power BI" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img 
     align="left" 
     alt="Tableau" 
     title="Tableau"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 <img 
     align="left" 
     alt="R Project" 
     title="R Project"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 
@@ -68,7 +68,7 @@ Me chamo Ismael, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecno
     align="left" 
     alt="Python" 
     title="Python"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>   
 
