@@ -59,11 +59,3 @@ Profissional técnico desde 2008, atualmente responsável por ensaios de resist�
    
 
 <br/>
-<br/>
-
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSantosGomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
