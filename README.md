@@ -1,6 +1,6 @@
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/65fc22e5-2023-4f80-99ba-b0259b5fbe2f" /> Hello World!
 
-Me chamo Ismael, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecnologia de Processos Gerenciais pela Faculdade Engenheiro Salvador Arena. Atualmente, estou em transição para a área de análise e ciência de dados, venho aprofundando meus conhecimentos em ferramentas de inteligência de negócios como Power BI, SQL, Python e Excel. Tenho meta realizar pós-graduação em ciências dados e gerenciamento de projetos. Estou aberto a conexões, colaboração e oportunidades na área de dados!
+Profissional técnico desde 2008, atualmente responsável por ensaios de resistência à tração de argamassas conforme normas da ABNT. Com experiência nas áreas de reparação automotiva, vendas e rotinas administrativas, focando em organização e entrega de resultados. Em processo de especialização na área de análise de dados, utilizando ferramentas de inteligência de negócios como Power BI, Tableau, SQL e Excel, transformando dados brutos em valor estratégico de apoio na tomada de decisões.
 
 <p align="left">
      <a href="https://www.linkedin.com/in/ismaelsantosgomes/" target="_blank">  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -56,21 +56,7 @@ Me chamo Ismael, tenho 34 anos e sou natural de São Paulo. Sou formado em Tecno
     width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
-<img 
-    align="left" 
-    alt="R Project" 
-    title="R Project"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
-
- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>   
+   
 
 <br/>
 <br/>
